@@ -22,7 +22,7 @@ The Bank Management System is a web-based application that simulates basic bank 
 - Open index.html file in the browser
 
 ## Website Link
-- [u][url=https://sarthak-bank-management-system.netlify.app]Bank Management System[/url][/u]
+https://sarthak-bank-management-system.netlify.app
 
 
 
